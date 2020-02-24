@@ -41,6 +41,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 | October  | Perth, WA, Australia               | [ISACA SecureIT Conference](https://engage.isaca.org/perthchapter/events/recentcommunityeventsdashboard) |
 | October  | Delhi, India                       | [Bsides Delhi](https://bsidesdelhi.in/) | ~350-400 |
 | October  | Kuala Lumpur, Malaysia             | [Nanosec Asia](https://www.nanosec.asia/) | ~200 |
+| November | Sydney, NSW, Australia             | [HCKSYD](https://hack.sydney) | ~300 |
 | November | Melbourne, Victoria, Australia     | [OWASP AppSec Day](https://appsecday.io/) | ~1000 |
 | November | Melbourne, Victoria, Australia     | [Security Influence & Trust Summit](https://sitempowers.com/) | ~100 |
 | November | Wellington, New Zealand            | [purplecon](https://purplecon.nz/#) | Unknown - new conference | 
@@ -60,6 +61,7 @@ Below is a list of infosec / hacking conferences in Asia Pacific organised by mo
 ## Australia
 ### New South Wales
 #### Sydney
+- [HCKSYD](https://hack.sydney)
 - [BSides Sydney](http://bsidessydney.org/)
 - [MRE2020](https://federation.edu.au/icsl/mre2020)
 - [Kids Securiday](https://www.securiday.com/)
